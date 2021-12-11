@@ -2,7 +2,7 @@
   <section>
     <div class="showcase">
       <div class="container">
-        <p>дайте денях</p>
+        <p>Вы хотите оставить чаевых</p>
         <Showcase-Carousel />
       </div>
     </div>
