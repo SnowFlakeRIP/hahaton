@@ -35,6 +35,7 @@ export default {
   align-items: center;
   height: 100vh;
   .window {
+    border-radius: 10px;
     background-color: rgb(255, 255, 255);
     z-index: 2;
     max-width: 900px;
